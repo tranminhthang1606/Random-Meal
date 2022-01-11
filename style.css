@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
+
+button{
+    margin: 20px;
+    padding: 10px 30px;
+}
+
+input{
+    height: 30px;
+    width: 300px;
+    font-size: 20px;
+}
